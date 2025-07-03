@@ -1,4 +1,4 @@
-module go-jwtx
+module github.com/r6rap/go-jwt-middleware
 
 go 1.23.3
 

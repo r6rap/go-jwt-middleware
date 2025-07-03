@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"go-jwtx/internal/utils"
+	"github.com/r6rap/go-jwt-middleware/internal/utils"
 
 	"github.com/golang-jwt/jwt/v5"
 	"github.com/gorilla/mux"
